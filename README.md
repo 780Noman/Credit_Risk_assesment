@@ -123,7 +123,8 @@ To run this project locally, please follow these steps:
 
 Below is a screenshot of the interactive Streamlit application. The interface is designed to be simple and intuitive, allowing users to input key financial metrics and receive an instant credit risk assessment.
 
-![1755165280558](image/README/1755165280558.png)
+*(Placeholder: You can add a screenshot of your running Streamlit app here. Drag and drop the image into the GitHub text editor.)*
+
 
 ## Future Improvements
 
